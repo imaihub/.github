@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.nhlstenden.com/imai">
-  <img width="900" src="https://github.com/imaihub/header/imai_header.jpg"></a>
+  <img width="900" src="https://github.com/imaihub/.github/blob/main/header/imai_header.jpg"></a>
 </p>
 <div align="center">
 
@@ -29,9 +29,9 @@ Join us in pushing the boundaries of AI-driven interaction and shaping the futur
 
 
 <br>
-<a href="https://github.com/imaihub"><img src="https://github.com/imaihub/assets/github.png" width="3%" alt="Ultralytics GitHub"></a>
-<img src="https://github.com/imaihub/assets/github_transparent.png" width="3%" alt="space">
-<a href="https://nl.linkedin.com/company/computer-vision-data-science"><img src="https://github.com/imaihub/assets/linkedin.png" width="3%" alt="Ultralytics LinkedIn"></a>
-<img src="https://github.com/imaihub/assets/linkedin_transparent.png" width="3%" alt="space">
+<a href="https://github.com/imaihub"><img src="https://github.com/imaihub/.github/blob/main/assets/github.png" width="3%" alt="Ultralytics GitHub"></a>
+<img src="https://github.com/imaihub/.github/blob/main/assets/github_transparent.png" width="3%" alt="space">
+<a href="https://nl.linkedin.com/company/computer-vision-data-science"><img src="https://github.com/imaihub/.github/blob/main/assets/linkedin.png" width="3%" alt="Ultralytics LinkedIn"></a>
+<img src="https://github.com/imaihub/.github/blob/main/assets/linkedin_transparent.png" width="3%" alt="space">
 
 </div>
