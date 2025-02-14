@@ -10,7 +10,7 @@
 
 # Welcome to IMAIHub! 🚀  
 
-At [IMAI Research Community](https://www.nhlstenden.com/en/IMAI), we are committed to advancing **computer vision and data science** through cutting-edge research.
+At [**IMAI Research Community**](https://www.nhlstenden.com/en/IMAI), we are committed to advancing **computer vision and data science** through cutting-edge research.
 
 As part of [**NHL Stenden University of Applied Sciences**](https://www.nhlstenden.com/), our mission is to develop innovative AI solutions that enhance human-machine collaboration across various industries.  
 
