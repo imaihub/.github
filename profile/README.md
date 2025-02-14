@@ -14,7 +14,7 @@ At [IMAI Research Community](https://www.nhlstenden.com/en/IMAI), we are committ
 
 As part of [**NHL Stenden University of Applied Sciences**](https://www.nhlstenden.com/), our mission is to develop innovative AI solutions that enhance human-machine collaboration across various industries.  
 
-Our open-source projects on GitHub provide state-of-the-art AI tools and methods for processing data from various domains such as **healthcare, robotics, and agriculture**.
+Our open-source projects on GitHub provide state-of-the-art AI tools and methods for processing data from various domains such as **traffic safety, agriculture, healthcare and robotics**.
 
 In addition to these AI tools, our projects include modular pipeline components that allow others to **accelerate research and reproduce our results**, fostering collaboration and innovation.
 
